@@ -17,28 +17,53 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Assistant"
+  company = "CAP Lab, Georgia Institute of Technology"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Atlanta"
+  date_start = "2019-08-15"
+  date_end = ""
+  description = ""
+
+[[experience]]
+  title = "Research Fellow"
+  company = "NESA Lab, Zhejiang University"
+  company_url = ""
+  location = "Hangzhou, China"
+  date_start = "2019-07-01"
+  date_end = "2020-07-01"
+  description = ""
+
+[[experience]]
+  title = "SDE Intern"
+  company = "Tencent"
+  company_url = ""
+  location = "Shenzhen, China"
+  date_start = "2018-04-01"
+  date_end = "2018-06-01"
+  description = ""
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Zhejiang University"
+  company_url = ""
+  location = "Hangzhou, China"
+  date_start = "2017-09-01"
+  date_end = "2018-02-01"
+  description = ""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "NESA Lab, Zhejiang University"
+  company_url = ""
+  location = "Hangzhou, China"
+  date_start = "2017-07-01"
+  date_end = "2018-04-01"
+  description = ""
+
+
+ # description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
