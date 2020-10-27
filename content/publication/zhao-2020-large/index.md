@@ -3,7 +3,7 @@
 
 title: A Large-scale Empirical Study on the Vulnerability of Deployed IoT Devices
 authors:
-- "**Binbin Zhao**"
+- Binbin Zhao
 - Shouling Ji
 - Wei-Han Lee
 - Changting Lin
