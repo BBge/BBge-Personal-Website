@@ -3,7 +3,7 @@
 
 title: A Large-scale Empirical Study on the Vulnerability of Deployed IoT Devices
 authors:
-- Binbin Zhao
+- "**Binbin Zhao**"
 - Shouling Ji
 - Wei-Han Lee
 - Changting Lin
@@ -14,12 +14,12 @@ authors:
 - Reheem Beyah
 
 publication_types: ["2"]
-publication: "IEEE Transactions on Dependable and Secure Computing"
+publication: "IEEE Transactions on Dependable and Secure Computing (TDSC)"
 publication_shorts: ""
 
 tags: []
 categories: []
-date: '2019-11-01'
+date: '2020-10-01'
 # lastmod: 2020-10-26T16:54:10-04:00
 # featured: false
 # draft: false
