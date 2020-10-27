@@ -14,7 +14,7 @@ authors:
 - Reheem Beyah
 
 publication_types: ["2"]
-publication: "IEEE Transactions on Dependable and Secure Computing (TDSC)"
+publication: "IEEE Transactions on Dependable and Secure Computing (TDSC), **CCF-A**"
 publication_shorts: ""
 
 tags: []
