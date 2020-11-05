@@ -19,7 +19,7 @@ publication_shorts: ""
 
 tags: []
 categories: []
-date: '2020-10-01'
+date: '2020-11-04'
 # lastmod: 2020-10-26T16:54:10-04:00
 # featured: false
 # draft: false
