@@ -34,7 +34,7 @@ image:
   preview_only: false
 
 links:
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9259111'
+url_pdf: 'https://ieeexplore.ieee.org/document/9259111'
 # - name: Custom Link
 #   url: http://example.org
 url_code: ''
