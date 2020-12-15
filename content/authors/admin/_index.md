@@ -69,4 +69,5 @@ user_groups:
 Hi there. I am a second-year Ph.D. student working with Prof. [Raheem Beyah](http://rbeyah.ece.gatech.edu/) and Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html) in the [School of Electrical and Computer Engineering](https://www.ece.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/). Prior to joining GaTech, I obtained my Bachelor's degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018.
 
 ### Recent News
+* [12/16/2020] Binbin has passed the coursework qualifier!
 * [11/04/2020] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC) !
