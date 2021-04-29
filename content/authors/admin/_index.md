@@ -70,5 +70,6 @@ Hi there. I am a second-year Ph.D. student working with Prof. [Raheem Beyah](htt
 
 ### Recent News
 
+* [04/30/2021] Our paper was accepted by Usenix Security 2021!
 * [12/16/2020] Binbin has passed the coursework qualifier!
 * [11/04/2020] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC) !
