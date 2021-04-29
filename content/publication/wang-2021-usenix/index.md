@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: MPInspector: A Systematic and Automatic Approach for Evaluating the Security of IoT Messaging Protocols
+title: "MPInspector: A Systematic and Automatic Approach for Evaluating the Security of IoT Messaging Protocols"
 authors:
 - Qinying Wang
 - Shouling Ji
@@ -21,7 +21,7 @@ publication_shorts: ""
 
 tags: []
 categories: []
-date: '2021-04-30'
+date: '2021-04-29'
 # lastmod: 2020-10-26T16:54:10-04:00
 # featured: false
 # draft: false
