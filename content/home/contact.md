@@ -17,10 +17,6 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 
-email = "binbin.zhao@gatech.edu"
-phone = ""
-
-address = {street = "KACB 2313, 266 Ferst Drive", city = "Atlanta", region = "GA", postcode = "30332", country = "United States", country_code = "US"}
 
 # Netlify form settings.
 [netlify]
