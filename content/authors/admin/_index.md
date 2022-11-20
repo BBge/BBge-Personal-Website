@@ -1,84 +1,91 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Binbin Zhao
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Binbin
+last_name: Zhao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+- name: Georgia Institute of Technology
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- IoT security
+- Fuzzing
+- Measurement
+- AI security
 
-# Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: Ph.D. in Electrical and Computer Engineering
+    institution: Georgia Institute of Technology
+    year: Expected 2023
+  - course: M.S. in Electrical and Computer Engineering
+    institution: Georgia Institute of Technology
+    year: 2022
+  - course: B.Eng. in Computer Science 
+    institution: Zhejiang University
+    year: 2018
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-# and uncomment the lines below.
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: google-scholar
+#   icon_pack: fab
+#   link: https://scholar.google.com/citations?user=FVMlXK8AAAAJ&hl=zh-CN
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=FVMlXK8AAAAJ&hl=zh-CN
+- icon: github
+  icon_pack: fab
+  link: https://github.com/bbge
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: "binbin.zhao@gatech.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Researchers
+- Visitors
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there. I am a fourth-year Ph.D. candidate working with Prof. [Raheem Beyah](http://rbeyah.ece.gatech.edu/) and Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html) in the [School of Electrical and Computer Engineering](https://www.ece.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/). Prior to joining GaTech, I obtained my Bachelor's degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+### Recent News
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+* [11/15/2022] Binbin has passed the proposal oral exam!
+* [11/10/2022] Our paper was accepted by Usenix Security 2023!
+* [04/18/2022] Binbin has accepted the IEEE S&P student grant!
+* [04/11/2022] Two papers were accepted by ISSTA 2022!
+* [04/04/2022] Binbin has accepted the ACM SIGSOFT CAPS Support for ICSE!
+* [03/17/2022] Binbin has accepted the NDSS student grant!
+* [10/20/2021] Our paper was accepted by NDSS 2022!
+* [05/25/2021] Our paper was accepted by Usenix Security 2021!
+* [12/16/2020] Binbin has passed the coursework qualifier!
+* [11/04/2020] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC) !
+
