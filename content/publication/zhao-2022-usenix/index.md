@@ -13,7 +13,7 @@ authors:
 
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
-publication: "Submitted to Usenix 2023"
+publication: "Submitted to USENIX 2023"
 publication_shorts: ""
 
 tags: []
