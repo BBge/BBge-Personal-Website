@@ -20,7 +20,7 @@ lastmod: 2020-10-26T17:00:19-04:00
 featured: false
 draft: false
 publication_types: ["2"]
-publication: "Big Data Mining and Analytics"
+publication: "Big Data Mining and Analytics, **CCF-T2**"
 publication_shorts: ""
 
 # Featured image
