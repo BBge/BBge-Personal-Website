@@ -31,7 +31,7 @@ content:
     street: KACB 2313, 266 Ferst Drive
     city: Atlanta
     region: GA
-    postcode: '30345'
+    postcode: '30332'
     country: United States
     country_code: US
   # coordinates:
