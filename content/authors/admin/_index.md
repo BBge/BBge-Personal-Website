@@ -76,8 +76,11 @@ user_groups:
 
 Hi there. I am a fourth-year Ph.D. candidate working with Prof. [Raheem Beyah](http://rbeyah.ece.gatech.edu/) and Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html) in the [School of Electrical and Computer Engineering](https://www.ece.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/). Prior to joining GaTech, I obtained my Bachelor's degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018.
 
+<font color=gray>I am on the academia job market starting from 2024 spring! Please email me if you think there is a good match!</font>
+
 ### Recent News
 
+* [03/12/2023] One USENIX paper and one S&P paper are under major revison.
 * [11/15/2022] Binbin has passed the proposal oral exam!
 * [11/10/2022] Our paper was accepted by USENIX Security 2023!
 * [04/18/2022] Binbin has accepted the IEEE S&P student grant!
