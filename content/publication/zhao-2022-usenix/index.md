@@ -3,12 +3,12 @@
 
 title: "Anonymous"
 authors:
-- "**Binbin Zhao**"
+- Binbin Zhao
 - Shouling Ji
 - Xuhong Zhang
 - Yuan Tian
 - Qinying Wang
-- Yuwen pu
+- Yuwen Pu
 - Chenyang Lyu
 - Reheem Beyah
 
