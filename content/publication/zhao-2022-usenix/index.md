@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Anonymous"
+title: "UVSCAN: Detecting Third-Party Component Usage Violations in IoT Firmware"
 authors:
 - Binbin Zhao
 - Shouling Ji

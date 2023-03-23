@@ -80,7 +80,7 @@ Hi there. I am a fourth-year Ph.D. candidate working with Prof. [Raheem Beyah](h
 
 ### Recent News
 
-* [03/2023]    Our paper was accepted by USENIX Security 2023!
+* [03/23/2023] Our paper was accepted by USENIX Security 2023!
 * [11/15/2022] Binbin has passed the proposal oral exam!
 * [11/10/2022] Our paper was accepted by USENIX Security 2023!
 * [04/18/2022] Binbin has accepted the IEEE S&P student grant!
