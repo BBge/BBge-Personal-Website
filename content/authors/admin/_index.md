@@ -57,7 +57,7 @@ social:
   link: https://github.com/bbge
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1Ca2ko8y8pcKV1CutVTGMQEpFtjKxKtXq/view?usp=sharing
+  link: files/cv.pdf
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
