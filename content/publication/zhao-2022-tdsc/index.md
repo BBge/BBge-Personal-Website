@@ -17,7 +17,7 @@ authors:
 
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
-publication: "Submitted to IEEE Transactions on Dependable and Secure Computing"
+publication: "IEEE Transactions on Dependable and Secure Computing, **CCF-A**"
 publication_shorts: ""
 
 tags: []

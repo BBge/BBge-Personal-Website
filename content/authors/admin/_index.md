@@ -84,6 +84,8 @@ Hi there. I am a fourth-year Ph.D. candidate working with Prof. [Raheem Beyah](h
 
 ### Recent News
 
+
+* [05/09/2023] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC) !
 * [03/23/2023] Our paper was accepted by USENIX Security 2023!
 * [11/15/2022] Binbin has passed the proposal oral exam!
 * [11/10/2022] Our paper was accepted by USENIX Security 2023!
