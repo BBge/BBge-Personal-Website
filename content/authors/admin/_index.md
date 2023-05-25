@@ -21,10 +21,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- IoT security
+- IoT
 - Fuzzing
-- Measurement
-- AI security
+- Blockchain
 
 education:
   courses:
@@ -55,9 +54,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/bbge
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -85,16 +84,16 @@ Hi there. I am a fourth-year Ph.D. candidate working with Prof. [Raheem Beyah](h
 ### Recent News
 
 
-* [05/09/2023] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC) !
+* [05/09/2023] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)!
 * [03/23/2023] Our paper was accepted by USENIX Security 2023!
 * [11/15/2022] Binbin has passed the proposal oral exam!
 * [11/10/2022] Our paper was accepted by USENIX Security 2023!
-* [04/18/2022] Binbin has accepted the IEEE S&P student grant!
+# * [04/18/2022] Binbin has accepted the IEEE S&P student grant!
 * [04/11/2022] Two papers were accepted by ISSTA 2022!
-* [04/04/2022] Binbin has accepted the ACM SIGSOFT CAPS Support for ICSE!
-* [03/17/2022] Binbin has accepted the NDSS student grant!
+# * [04/04/2022] Binbin has accepted the ACM SIGSOFT CAPS Support for ICSE!
+# * [03/17/2022] Binbin has accepted the NDSS student grant!
 * [10/20/2021] Our paper was accepted by NDSS 2022!
 * [05/25/2021] Our paper was accepted by USENIX Security 2021!
 * [12/16/2020] Binbin has passed the coursework qualifier!
-* [11/04/2020] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC) !
+* [11/04/2020] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)!
 
