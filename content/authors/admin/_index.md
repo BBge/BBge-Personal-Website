@@ -88,10 +88,10 @@ Hi there. I am a fourth-year Ph.D. candidate working with Prof. [Raheem Beyah](h
 * [03/23/2023] Our paper was accepted by USENIX Security 2023!
 * [11/15/2022] Binbin has passed the proposal oral exam!
 * [11/10/2022] Our paper was accepted by USENIX Security 2023!
-# * [04/18/2022] Binbin has accepted the IEEE S&P student grant!
+<!-- * [04/18/2022] Binbin has accepted the IEEE S&P student grant! -->
 * [04/11/2022] Two papers were accepted by ISSTA 2022!
-# * [04/04/2022] Binbin has accepted the ACM SIGSOFT CAPS Support for ICSE!
-# * [03/17/2022] Binbin has accepted the NDSS student grant!
+<!-- * [04/04/2022] Binbin has accepted the ACM SIGSOFT CAPS Support for ICSE! -->
+<!-- * [03/17/2022] Binbin has accepted the NDSS student grant! -->
 * [10/20/2021] Our paper was accepted by NDSS 2022!
 * [05/25/2021] Our paper was accepted by USENIX Security 2021!
 * [12/16/2020] Binbin has passed the coursework qualifier!
