@@ -16,7 +16,7 @@ authors:
 
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
-publication: "45th IEEE Symposium on Security and Privacy (IEEE S&P 2024), **CCF-A**"
+publication: "IEEE S&P 2024, **CCF-A**"
 publication_shorts: ""
 
 tags: []
