@@ -77,7 +77,7 @@ user_groups:
 - Visitors
 ---
 
-Hi there. I earned my Ph.D. in Electrical and Computer Engineering from [Georgia Institute of Technology](https://www.gatech.edu/), where I was advised by Prof. [Raheem Beyah](http://rbeyah.ece.gatech.edu/) and Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). Prior to that obtained my Bachelor's degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018.
+Hi there. I earned my Ph.D. in Electrical and Computer Engineering from [Georgia Institute of Technology](https://www.gatech.edu/), where I was advised by Prof. [Raheem Beyah](http://rbeyah.ece.gatech.edu/) and Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). Prior to that, I obtained my Bachelor's degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018.
 
 
 
