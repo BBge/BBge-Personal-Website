@@ -15,7 +15,7 @@ authors:
 - Reheem Beyah
 
 publication_types: ["1"]
-publication: "USENIX 2023, **CCF-A**"
+publication: "USENIX Security 2023, **CCF-A**"
 # publication: "Under major revision"
 publication_shorts: ""
 
