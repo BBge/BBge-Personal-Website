@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Electrical and Computer Engineering
     institution: Georgia Institute of Technology
-    year: Expected 2023
+    year: 2023
   - course: M.S. in Electrical and Computer Engineering
     institution: Georgia Institute of Technology
     year: 2022
@@ -77,23 +77,22 @@ user_groups:
 - Visitors
 ---
 
-Hi there. I am a fourth-year Ph.D. candidate working with Prof. [Raheem Beyah](http://rbeyah.ece.gatech.edu/) and Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html) in the [School of Electrical and Computer Engineering](https://www.ece.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/). Prior to joining GaTech, I obtained my Bachelor's degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018.
+Hi there. I earned my Ph.D. in Electrical and Computer Engineering from [Georgia Institute of Technology](https://www.gatech.edu/), where I was advised by Prof. [Raheem Beyah](http://rbeyah.ece.gatech.edu/) and Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). Prior to that obtained my Bachelor's degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018.
 
 
 
 ### Recent News
 
-
+* [07/10/2023] Our paper was accepted by IEEE S&P 2024!
 * [05/09/2023] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)!
 * [03/23/2023] Our paper was accepted by USENIX Security 2023!
-* [11/15/2022] Binbin has passed the proposal oral exam!
-* [11/10/2022] Our paper was accepted by USENIX Security 2023!
-
-* [04/11/2022] Two papers were accepted by ISSTA 2022!
-* [10/20/2021] Our paper was accepted by NDSS 2022!
-* [05/25/2021] Our paper was accepted by USENIX Security 2021!
-* [12/16/2020] Binbin has passed the coursework qualifier!
-* [11/04/2020] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)!
+<!-- * [11/15/2022] Binbin has passed the proposal oral exam! -->
+<!-- * [11/10/2022] Our paper was accepted by USENIX Security 2023! -->
+<!-- * [04/11/2022] Two papers were accepted by ISSTA 2022! -->
+<!-- * [10/20/2021] Our paper was accepted by NDSS 2022! -->
+<!-- * [05/25/2021] Our paper was accepted by USENIX Security 2021! -->
+<!-- * [12/16/2020] Binbin has passed the coursework qualifier! -->
+<!-- * [11/04/2020] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)! -->
 
 <!-- * [04/18/2022] Binbin has accepted the IEEE S&P student grant! -->
 <!-- * [04/04/2022] Binbin has accepted the ACM SIGSOFT CAPS Support for ICSE! -->
