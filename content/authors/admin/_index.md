@@ -10,7 +10,7 @@ last_name: Zhao
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Ph.D.
 
 # Organizations/Affiliations
 organizations:
