@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "MPInspector: A Systematic and Automatic Approach for Evaluating the Security of IoT Messaging Protocols"
+title: "SyzTrust: State-aware Fuzzing on Trusted OS Designed for IoT Devices"
 authors:
 - Qinying Wang
 - Boyu Chang
