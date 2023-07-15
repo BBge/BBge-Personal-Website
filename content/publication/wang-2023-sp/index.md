@@ -36,10 +36,10 @@ image:
   preview_only: false
 
 links:
-url_pdf: 'https://www.usenix.org/system/files/sec21-wang-qinying.pdf'
+url_pdf: ''
 # - name: Custom Link
 #   url: http://example.org
-url_code: 'https://github.com/wqqqy/MPInspector'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
