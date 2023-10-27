@@ -83,7 +83,9 @@ Hi there. I am a research faculty with the [School of Electrical and Computer En
 
 ### Recent News
 
+* [08/07/2023] Our paper was accepted by NDSS 2024!
 * [07/10/2023] Our paper was accepted by IEEE S&P 2024!
+* [06/20/2023] Binbin has passed the Ph.D. Dissertation Defense!
 * [05/09/2023] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)!
 * [03/23/2023] Our paper was accepted by USENIX Security 2023!
 <!-- * [11/15/2022] Binbin has passed the proposal oral exam! -->
