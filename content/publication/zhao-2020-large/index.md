@@ -11,7 +11,7 @@ authors:
 - Jingzheng Wu
 - Pan Zhou
 - Liming Fang
-- Reheem Beyah
+- Raheem Beyah
 
 publication_types: ["2"]
 # publication: "IEEE Transactions on Dependable and Secure Computing (TDSC), **CCF-A**"
