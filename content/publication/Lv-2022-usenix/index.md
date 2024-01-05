@@ -12,7 +12,7 @@ authors:
 - Gaoning Pan
 - Wei Cao
 - Peng Chen
-- Reheem Beyah
+- Raheem Beyah
 
 publication_types: ["1"]
 publication: "USENIX Security 2023, **CCF-A**"
