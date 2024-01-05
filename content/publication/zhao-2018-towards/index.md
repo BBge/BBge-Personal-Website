@@ -9,7 +9,7 @@ authors:
 - Jianhai Chen
 - Ting Wang
 - Qinming He
-- Reheem Beyah
+- Raheem Beyah
 
 publication_types: ["1"]
 publication: "Proceedings of the 11th ACM Workshop on Artificial Intelligence and Security (AISec 2018), co-located with CCS"
