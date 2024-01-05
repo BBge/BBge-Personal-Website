@@ -12,7 +12,7 @@ authors:
 - Gaoning Pan
 - Chenyang Lyu
 - Wenhai Wang
-- Reheem Beyah
+- Raheem Beyah
 
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
