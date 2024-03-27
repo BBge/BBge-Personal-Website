@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- <meta charset="utf-8"> -->
+<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1" />
+<title>成本计算</title>
+</head>
+<body>
+
+<form>
+ 车数: <input id="machinenum" type="number" name="machinenum" value="480">
+ <br>
+ 系数: <input id="coefficient" type="number" name="coefficient">
+ <br>
+ 分特: <input id="dtex" type="number" name="dtex" value="152">
+ <br>
+ 锭数: <input id="dingnum" type="number" name="dingnum" value="240">
+ <br>
+ 电费: <input id="electric" type="number" name="electric" value="550">元
+ <br>
+ 人员工资: <input id="salary" type="number" name="salary" value="573">元
+ <br>
+  纸箱容量: <input id="cartoncap" type="number" name="cartoncap" value="33">千克
+ <br>
+  纸箱数量: <input id="cartonnum" type="number" name="cartonnum" >个
+ <br>
+ 纸箱单价: <input id="cartonprice" type="number" name="cartonprice" value="6.5">元
+ <br>
+   单纸箱纸管容量: <input id="tubecap" type="number" name="tubecap" value="8">个
+ <br>
+  纸管数量: <input id="tubenum" type="number" name="tubenum" >个
+ <br>
+ 纸管单价: <input id="tubeprice" type="number" name="tubeprice" value="0.8">元
+ <br>
+ <br>
+
+每日产能: <input id="dailycap" type="number" name="dailycap">千克
+ <br>
+
+每日成本: <input id="dailycost" type="number" name="dailycost">元
+ <br>
+
+每吨成本: <input id="toncost" type="number" name="toncost" >元/吨
+ <br>
+ <br>
+ <button id="calculate" type="button" onclick="cal()">计算</button>
+<br>
+<br>
+ <button type="reset" value="Reset">清除</button>
+</form> 
+
+<script>
+    function cal()
+    { 
+        var machinenum = document.getElementById("machinenum").value;
+
+        var dtex = document.getElementById("dtex").value;
+        var dingnum = document.getElementById("dingnum").value;
+        var electric = document.getElementById("electric").value;
+        var salary = document.getElementById("salary").value;
+        var cartoncap = document.getElementById("cartoncap").value;
+        var cartonprice = document.getElementById("cartonprice").value;
+        var tubecap = document.getElementById("tubecap").value;
+        var tubeprice = document.getElementById("tubeprice").value;
+
+        var coefficient = machinenum/480*0.043;
+        document.getElementById('coefficient').value = coefficient;
+        var dailycap = coefficient*dtex*dingnum;
+        document.getElementById('dailycap').value = dailycap;
+        var cartonnum = dailycap/cartoncap;
+        document.getElementById('cartonnum').value = cartonnum;
+        var tubenum = cartonnum*tubecap;
+        document.getElementById('tubenum').value = tubenum;
+        var dailycost = parseInt(electric)+parseInt(salary)+cartonnum*cartonprice+tubenum*tubeprice;
+        document.getElementById('dailycost').value = dailycost;
+        var toncost = dailycost/dailycap*1000;
+        document.getElementById('toncost').value = toncost;
+
+    }
+</script>
+
+</body>
+</html>
