@@ -34,7 +34,7 @@ image:
   preview_only: false
 
 links:
-url_pdf: ''
+url_pdf: 'https://www.ndss-symposium.org/wp-content/uploads/2024-131-paper.pdf'
 # - name: Custom Link
 #   url: http://example.org
 url_code: ''

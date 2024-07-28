@@ -34,7 +34,7 @@ image:
   preview_only: false
 
 links:
-url_pdf: ''
+url_pdf: 'https://www.usenix.org/system/files/usenixsecurity23-zhao-binbin.pdf'
 # - name: Custom Link
 #   url: http://example.org
 url_code: ''

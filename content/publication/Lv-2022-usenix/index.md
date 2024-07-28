@@ -36,7 +36,7 @@ image:
   preview_only: false
 
 links:
-url_pdf: 'https://arxiv.org/abs/2303.02545'
+url_pdf: 'https://www.usenix.org/system/files/sec23fall-prepub-129-lyu.pdf'
 # - name: Custom Link
 #   url: http://example.org
 url_code: 'https://github.com/puppet-meteor/MINER'

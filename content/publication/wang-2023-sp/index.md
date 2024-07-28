@@ -36,10 +36,10 @@ image:
   preview_only: false
 
 links:
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2309.14742'
 # - name: Custom Link
 #   url: http://example.org
-url_code: ''
+url_code: 'https://github.com/SyzTrust'
 url_dataset: ''
 url_poster: ''
 url_project: ''
