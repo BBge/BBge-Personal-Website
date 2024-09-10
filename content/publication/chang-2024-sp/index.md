@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "SyzTrust: State-aware Fuzzing on Trusted OS Designed for IoT Devices"
+title: "FirmRCA: Towards Post-Fuzzing Analysis on ARM Embedded Firmware with Efficient Event-based Fault Localization"
 authors:
 - Boyu Chang
 - Binbin Zhao
