@@ -75,4 +75,12 @@ date_format = "Jan 2006"
 #  title = "Research Assistant"
 #  company = "NESA Lab, Zhejiang University"
 #  company_url = ""
-#  location = "Hang
+#  location = "Hangzhou, China"
+#  date_start = "2017-07-01"
+#  date_end = "2018-04-01"
+#  description = ""
+
+
+ # description = """Taught electronic engineering and researched semiconductor physics."""
+
++++
