@@ -10,7 +10,7 @@ last_name: Zhao
 superuser: true
 
 # Role/position/tagline
-role: Research Engineer II
+role: ZJU 100 Young Professor
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,8 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- IoT
-- Fuzzing
-- Blockchain
+- System Security
+- AI Security
 
 education:
   courses:
@@ -77,12 +76,13 @@ user_groups:
 - Visitors
 ---
 
-Hi there. I am a research faculty with the [School of Electrical and Computer Engineering](https://ece.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/). I earned my Ph.D. in Electrical and Computer Engineering from [Georgia Institute of Technology](https://www.gatech.edu/), where I was advised by Prof. [Raheem Beyah](http://rbeyah.ece.gatech.edu/) and Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). Prior to that, I obtained my Bachelor's degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018.
+Hi there. I am a ZJU 100 Young Professor at Zhejiang University. Prior to that, I was a research faculty with the [School of Electrical and Computer Engineering](https://ece.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/). I earned my Ph.D. in Electrical and Computer Engineering from [Georgia Institute of Technology](https://www.gatech.edu/), where I was advised by Prof. [Raheem Beyah](http://rbeyah.ece.gatech.edu/) and Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html).
 
 
 
 ### Recent News
 
+* [01/23/2025] Our paper was accepted by USENIX Security 2025!
 * [09/10/2024] Our paper was accepted by IEEE S&P 2025!
 * [08/07/2023] Our paper was accepted by NDSS 2024!
 * [07/10/2023] Our paper was accepted by IEEE S&P 2024!

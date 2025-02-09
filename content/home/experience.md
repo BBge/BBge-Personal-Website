@@ -19,12 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "ZJU 100 Young Professor"
+  company = "Zhejiang University"
+  company_url = ""
+  location = "Hangzhou"
+  date_start = "2025-02-01"
+  date_end = ""
+  description = ""
+
   title = "Research Engineer II"
   company = "CAP Lab, Georgia Institute of Technology"
   company_url = ""
   location = "Atlanta"
   date_start = "2023-08-16"
-  date_end = ""
+  date_end = "2025-01-15"
   description = ""
 
 [[experience]]
@@ -67,12 +75,4 @@ date_format = "Jan 2006"
 #  title = "Research Assistant"
 #  company = "NESA Lab, Zhejiang University"
 #  company_url = ""
-#  location = "Hangzhou, China"
-#  date_start = "2017-07-01"
-#  date_end = "2018-04-01"
-#  description = ""
-
-
- # description = """Taught electronic engineering and researched semiconductor physics."""
-
-+++
+#  location = "Hang
