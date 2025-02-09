@@ -25,15 +25,15 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: binbin.zhao@gatech.edu
+  email: bbge@zju.edu.cn
   phone: 
-  address:
-    street: KACB 2313, 266 Ferst Drive
-    city: Atlanta
-    region: GA
-    postcode: '30332'
-    country: United States
-    country_code: US
+  # address:
+  #   street: KACB 2313, 266 Ferst Drive
+  #   city: Atlanta
+  #   region: GA
+  #   postcode: '30332'
+  #   country: United States
+  #   country_code: US
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'

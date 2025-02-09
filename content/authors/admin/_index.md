@@ -14,7 +14,7 @@ role: ZJU 100 Young Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Georgia Institute of Technology
+- name: Zhejiang University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
