@@ -76,7 +76,7 @@ user_groups:
 - Visitors
 ---
 
-Hi there. I am a ZJU 100 Young Professor at Zhejiang University. Prior to that, I was a research faculty with the [School of Electrical and Computer Engineering](https://ece.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/). I earned my Ph.D. in Electrical and Computer Engineering from [Georgia Institute of Technology](https://www.gatech.edu/), where I was advised by Prof. [Raheem Beyah](http://rbeyah.ece.gatech.edu/) and Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html).
+Hi there. I am a ZJU 100 Young Professor at Zhejiang University. Prior to that, I was a research faculty with the [School of Electrical and Computer Engineering](https://ece.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/). I earned my Ph.D. in Electrical and Computer Engineering from [Georgia Institute of Technology](https://www.gatech.edu/), where I was advised by Prof. [Raheem Beyah](http://rbeyah.ece.gatech.edu/).
 
 
 
