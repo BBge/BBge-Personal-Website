@@ -27,6 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[experience]]
   title = "Research Engineer II"
   company = "CAP Lab, Georgia Institute of Technology"
   company_url = ""
