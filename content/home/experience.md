@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "Zhejiang University"
   company_url = ""
   location = "Hangzhou"
-  date_start = "2025-02-01"
+  date_start = "2025-03-19"
   date_end = ""
   description = ""
 

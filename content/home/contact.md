@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: bbge@zju.edu.cn
+  email: binbinz@zju.edu.cn
   phone: 
   # address:
   #   street: KACB 2313, 266 Ferst Drive
